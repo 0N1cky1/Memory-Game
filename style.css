@@ -137,7 +137,8 @@ body {
     box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
 }
 #refresh, 
-#level1{
+#level1,
+#Others{
 width: 120px;
 height: 50px;
 border:1px solid rgb(50, 119, 248);

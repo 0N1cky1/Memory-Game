@@ -9,7 +9,7 @@ body {
     box-sizing: border-box;
     background-color: rgb(50, 119, 248);
     display: flex;
-    background-image: url("image.png");
+    background-image: url("Images/image.png");
     background-size: cover;
 }
 .board{
